@@ -44,7 +44,6 @@ In Similarity with the directed graphs, All the UnDirected Graphs were loaded an
 * Density
 
 # Features of metrics_undirected.csv
-# Features
 * Number of Nodes
 * Number of Edges
 * Average Degree
