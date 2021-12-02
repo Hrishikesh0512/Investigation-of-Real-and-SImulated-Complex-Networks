@@ -1,2 +1,1 @@
-# SIT723
-Real and Complex Networks
+Investigation of real and simulated complex networks
