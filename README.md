@@ -27,8 +27,7 @@ In Similarity with the directed graphs, All the UnDirected Graphs were loaded an
 * YthanFulWeb.net
 
 # Output Dataset
-# metrics_directed.csv
-# Features
+# Features of metrics_undirected.csv
 * Number of Nodes
 * Number of Edges
 * Average Degree
@@ -44,21 +43,21 @@ In Similarity with the directed graphs, All the UnDirected Graphs were loaded an
 * Clustering
 * Density
 
-#metrics_undirected.csv
-#Features
-*Number of Nodes
-*Number of Edges
-*Average Degree
-*Average Eccentricity
-*Standard Deviation of Eccentricity
-*Average Center
-*Standard Deviation of Center 
-*Pearson Coiefficient
-*Assortivity
-*Average Node Connectivity
-*Transitivity
-*Clustering
-*Diameter
+# Features of metrics_undirected.csv
+# Features
+* Number of Nodes
+* Number of Edges
+* Average Degree
+* Average Eccentricity
+* Standard Deviation of Eccentricity
+* Average Center
+* Standard Deviation of Center 
+* Pearson Coiefficient
+* Assortivity
+* Average Node Connectivity
+* Transitivity
+* Clustering
+* Diameter
 
 
 
