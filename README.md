@@ -11,38 +11,38 @@ Unidirected_Graphs.ipynb
 In Similarity with the directed graphs, All the UnDirected Graphs were loaded and then after application of suitable graph metrices the result parameters were stored in a csv file which was then used for analysis and comparision between multiple directed graphs.
 
 # Datasets
-Directed Graphs:
-CoachellaValley
-Chesapeakbay.net
+* Directed Graphs:
+* CoachellaValley
+* Chesapeakbay.net
 
-Undirected Graphs:
-Chesapeakbayundirected.net
-Grassland.net
-Grasslandm.net
-Heliaster.net
-LittleRock.net 
-StMartin1.net
-StMartin2.net
-YthanEstury.net
-YthanFulWeb.net
+* Undirected Graphs:
+* Chesapeakbayundirected.net
+* Grassland.net
+* Grasslandm.net
+* Heliaster.net
+* LittleRock.net 
+* StMartin1.net
+* StMartin2.net
+* YthanEstury.net
+* YthanFulWeb.net
 
-#Output Dataset
-#metrics_directed.csv
-#Features
-*Number of Nodes
-*Number of Edges
-*Average Degree
-*Standard deviation of Degree
-*Standard Deviation of Indegree
-*Standard Deviation of OutDegree
-*Strong Connectivity
-*Weak Connectivity
-*Flow Hirarchy
-*Average Node Degree
-*Average Degree Connectivity 
-*Standard Deviation of Degree Connectivity
-*Clustering
-*Density
+# Output Dataset
+# metrics_directed.csv
+# Features
+* Number of Nodes
+* Number of Edges
+* Average Degree
+* Standard deviation of Degree
+* Standard Deviation of Indegree
+* Standard Deviation of OutDegree
+* Strong Connectivity
+* Weak Connectivity
+* Flow Hirarchy
+* Average Node Degree
+* Average Degree Connectivity 
+* Standard Deviation of Degree Connectivity
+* Clustering
+* Density
 
 #metrics_undirected.csv
 #Features
